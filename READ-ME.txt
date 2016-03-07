@@ -1,0 +1,14 @@
+Contrôles de base :
+déplacement : touches fléchées
+sauter : espace
+passer une porte : touche fléchée haut
+quitter un niveau : Echap.
+quitter le jeu : croix de la fenêtre ou quitter niveau en cours + Echap.
+
+/!\  IMPORTANT /!\
+Avant de compiler le jeu et d'y jouer veillez à installer sld-mixer avec les commandes 
+ 	
+ 	sudo apt-get install libsdl-mixer1.2
+ 
+ 	sudo apt-get install libsdl-mixer1.2-dev
+ 
